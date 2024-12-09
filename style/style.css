@@ -1,3 +1,9 @@
 p {
   color: rgb(162, 0, 0);
 }
+h1 {
+  background-color: blue;
+}
+h3 {
+  background-color: orange;
+}
